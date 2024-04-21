@@ -3,6 +3,7 @@ import javax.swing.JOptionPane;
 
 public class EntradaNum1 {
 	private int num;
+	private int mudança;
 
 	public int getNum() {
 		return num;
